@@ -1,6 +1,6 @@
 # Robotframework-smtplibrary
 [![Build Status](https://travis-ci.org/Accruent/robotframework-smtplibrary.svg?branch=master)](https://travis-ci.org/Accruent/robotframework-smtplibrary)
-[![Coverage Status](https://coveralls.io/repos/github/Accruent/robotframework-smtplibrary/badge.svg?branch=fix-user-password-issue)](https://coveralls.io/github/Accruent/robotframework-smtplibrary?branch=fix-user-password-issue)
+[![Coverage Status](https://coveralls.io/repos/github/Accruent/robotframework-smtplibrary/badge.svg?branch=master)](https://coveralls.io/github/Accruent/robotframework-smtplibrary?branch=master)
 
 This is a library for robotframework to send emails and test smtp protocol.
 

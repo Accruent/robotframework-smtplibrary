@@ -7,9 +7,7 @@ This is a library for robotframework to send emails and test smtp protocol.
 
 ## Installation
 
-    git clone https://github.com/accruent/robotframework-smtplibrary
-    cd robotframework-smtplibrary
-    python setup.py install
+    pip install git+https://github.com/accruent/robotframework-smtplibrary
 
 Then in robotframework scenario import library "SmtpLibrary" with no parameters.
 
